@@ -3,7 +3,7 @@ ScratchNetworkLite is an open-source, free and community driven version of Scrat
 
 ScratchNetworkLite will respect all users, and will be run by the Scratch community, for the Scratch community.
 
-#Benifits
+# Benifits
 myed will be working on ScratchNetworkLite with a full server backend written in PHP and basic Bootstrap front-end.
 Instead of following ScratchNetwork's single page design, ScratchNetworkLite will be split over multiple pages.
 
